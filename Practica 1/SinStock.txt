@@ -1,0 +1,4 @@
+7 150.00 celular
+0 2 sony
+8 206.00 tostadora
+0 6 lilliana

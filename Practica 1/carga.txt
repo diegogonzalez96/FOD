@@ -1,0 +1,6 @@
+4 100 tele
+5 6 sony
+7 150 celular
+0 2 sony
+8 206 tostadora
+0 6 lilliana

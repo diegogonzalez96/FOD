@@ -1,0 +1,8 @@
+2 celular
+150.00 20 10
+3 televisor
+200.00 30 10
+4 notebook
+400.00 40 10
+5 cocina
+300.00 50 15
